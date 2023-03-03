@@ -25,9 +25,10 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 
 
 ## PROJECT DELIVERY NOTES:
-* EB URL: http://juadel.ca-central-1.elasticbeanstalk.com/
+* EB URL: juadelfiltered-env.eba-x3wwaxry.ca-central-1.elasticbeanstalk.com
 
 * Example image:
-http://juadel.ca-central-1.elasticbeanstalk.com/filteredimage?image_url=https://brazilian.report/wp-content/uploads/2022/06/shutterstock_108094076.jpg
+
+http://juadelfiltered-env.eba-x3wwaxry.ca-central-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
 
 * GITHUB REPOSITORY: https://github.com/juadel/FilteredImage-New-Version---FBI
